@@ -39,10 +39,10 @@ The model is a `UNet2DConditionModel` from 🤗 `diffusers`:
 
 Samples below show **4 different conditions** (0–3) generated from models trained for increasing epochs.
 
-| Samples per Epoch                             |                                     |
-| --------------------------------------------- | ----------------------------------- |
-| **Epoch 10**                                  | ![](./assets/grid_epochs_10_90.png) |
-| _(Each row = epoch, each column = condition)_ |                                     |
+| Sample                              |
+| ----------------------------------- |
+| ![](./assets/grid_epochs_10_90.png) |
+|                                     |
 
 ---
 
